@@ -1,9 +1,9 @@
-# Write the Moon's reply for the make.fun contest.
+# Write the Moon's one-line reply as UTF-8 for the make.fun judge.
 import os
 from pathlib import Path
 
 
-TEXT = "Wish, howl, swear you'll change. Four billion years of phases, and I'm only full of it once a month."
+TEXT = "I move every ocean on Earth twice a day, and you want me to make him text back."
 
 
 def main():
